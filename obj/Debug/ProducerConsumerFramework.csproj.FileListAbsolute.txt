@@ -1,1 +1,6 @@
 C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\bin\Debug\ProducerConsumerFramework.exe.config
+C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\bin\Debug\ProducerConsumerFramework.exe
+C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\bin\Debug\ProducerConsumerFramework.pdb
+C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\obj\Debug\ProducerConsumerFramework.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\obj\Debug\ProducerConsumerFramework.exe
+C:\Users\Martin\Google Drev\Skole\Programmering\C# Projekter\Semester 3\ProducerConsumerFramework\ProducerConsumerFramework\obj\Debug\ProducerConsumerFramework.pdb
